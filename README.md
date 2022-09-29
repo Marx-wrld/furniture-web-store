@@ -1,3 +1,3 @@
-## Furniture Ecommerce App 
+## Furniture Web Store 
 
-## This is my second app using Flutter framework
+### This is my second app using Flutter framework
