@@ -1,3 +1,3 @@
-## Furniture Web Store 
+## FoodDeliveryApp
 
-### This is my second app using Flutter framework
+A Flutter project with SQL integration
